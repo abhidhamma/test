@@ -94,7 +94,7 @@ export default function Login() {
                 </Label>
                 <Textarea id='message' placeholder='Enter your message' required />
               </div>
-              <Button size='sm'>Submit</Button>
+              {/* <Button size='sm'>Submit</Button> */}
             </div>
           </div>
           <div className='flex items-center justify-center'>
