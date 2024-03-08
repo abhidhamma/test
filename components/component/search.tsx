@@ -60,7 +60,7 @@ export function Search() {
                 <Label className='text-sm' htmlFor='class'>
                   Class
                 </Label>
-                <Select id='class'>
+                <Select>
                   <SelectValue placeholder='Select class' />
                   <SelectTrigger className='w-full'>
                     <SelectValue />
@@ -139,7 +139,7 @@ export function Search() {
   )
 }
 
-function ChevronDownIcon(props) {
+function ChevronDownIcon(props: any) {
   return (
     // <svg
     //   {...props}

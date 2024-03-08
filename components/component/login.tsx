@@ -204,7 +204,7 @@ export default function Login() {
   )
 }
 
-function ChromeIcon(props) {
+function ChromeIcon(props: any) {
   return (
     <svg
       {...props}
@@ -227,7 +227,7 @@ function ChromeIcon(props) {
   )
 }
 
-function FacebookIcon(props) {
+function FacebookIcon(props: any) {
   return (
     <svg
       {...props}
