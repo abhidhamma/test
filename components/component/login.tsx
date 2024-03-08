@@ -63,9 +63,9 @@ export default function Login() {
         <div className='max-w-6xl mx-auto grid gap-6 px-4 md:grid-cols-2 md:gap-10 lg:px-6'>
           <div className='flex flex-col justify-center gap-4'>
             <div className='grid gap-2'>
-              <h2 className='text-3xl font-semibold tracking-tight'>Let's make it happen</h2>
+              <h2 className='text-3xl font-semibold tracking-tight'>Lets make it happen</h2>
               <p className='text-gray-500 dark:text-gray-400'>
-                Your journey to Korea starts here. Fill in your details and we'll take care of the
+                Your journey to Korea starts here. Fill in your details and well take care of the
                 rest.
               </p>
             </div>
@@ -113,7 +113,7 @@ export default function Login() {
           <div className='grid gap-2'>
             <h2 className='text-3xl font-semibold tracking-tight'>Your journey to Korea</h2>
             <p className='text-gray-500 dark:text-gray-400'>
-              Your adventure awaits! We've curated a list of must-visit attractions and local
+              Your adventure awaits! Weve curated a list of must-visit attractions and local
               experiences to make your trip to Korea unforgettable.
             </p>
           </div>
@@ -122,7 +122,7 @@ export default function Login() {
               <CardHeader className='flex flex-col gap-1'>
                 <CardTitle className='text-base'>Gyeongbokgung Palace Ticket</CardTitle>
                 <CardDescription className='text-sm'>
-                  Discover the beauty of Korea's history with a visit to Gyeongbokgung Palace.
+                  Discover the beauty of Koreas history with a visit to Gyeongbokgung Palace.
                 </CardDescription>
               </CardHeader>
               <CardContent className='flex flex-col gap-2'>
@@ -146,8 +146,8 @@ export default function Login() {
               <CardHeader className='flex flex-col gap-1'>
                 <CardTitle className='text-base'>Street Food Tour in Myeongdong</CardTitle>
                 <CardDescription className='text-sm'>
-                  Indulge in a culinary adventure with a guided tour of Myeongdong's best street
-                  food stalls.
+                  Indulge in a culinary adventure with a guided tour of Myeongdongs best street food
+                  stalls.
                 </CardDescription>
               </CardHeader>
               <CardContent className='flex flex-col gap-2'>
@@ -161,7 +161,7 @@ export default function Login() {
                   DMZ Tour: Journey to the Korean Demilitarized Zone
                 </CardTitle>
                 <CardDescription className='text-sm'>
-                  Explore the historic DMZ and learn about the divided Korean peninsula's history.
+                  Explore the historic DMZ and learn about the divided Korean peninsulas history.
                 </CardDescription>
               </CardHeader>
               <CardContent className='flex flex-col gap-2'>
